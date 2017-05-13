@@ -2,3 +2,5 @@
 /test/functional/fixtures/lib/*/doctrine/*/base/
 /test/functional/fixtures/cache/
 /test/functional/fixtures/log/
+/vendor
+/composer.lock
